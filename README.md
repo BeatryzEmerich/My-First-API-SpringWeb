@@ -37,4 +37,4 @@ Para executar esta API em sua máquina local, siga estas etapas:
 3. Configure as credenciais do banco de dados no arquivo `application.properties`.
 4. Execute a aplicação Spring Boot usando a IDE de sua escolha ou o comando `./mvnw spring-boot:run`.
 5. Acesse a API em `http://localhost:8080`.
-6. Para testes eu usei o P
+6. Para testes eu usei o Postman
