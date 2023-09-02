@@ -21,12 +21,12 @@ Esta API Web foi desenvolvida com o Spring Framework e fornece uma plataforma ro
 
 ## Endpoints
 
-- `POST /api/usuarios`: Crie um novo usuário.
-- `PUT /api/usuarios`: Atualize as informações de um usuário.
-- `DELETE /api/usuarios/{id}`: Exclua um usuário pelo ID.
-- `GET /api/usuarios`: Liste todos os usuários cadastrados.
-- `GET /api/usuarios/{id}`: Obtenha detalhes de um usuário pelo ID.
-- `GET /api/usuarios/username/{username}`: Procure um usuário pelo nome de usuário.
+- `POST /api/user`: Crie um novo usuário.
+- `PUT /api/user`: Atualize as informações de um usuário.
+- `DELETE /api/user/{id}`: Exclua um usuário pelo ID.
+- `GET /api/user`: Liste todos os usuários cadastrados.
+- `GET /api/user/{id}`: Obtenha detalhes de um usuário pelo ID.
+- `GET /api/user/username/{username}`: Procure um usuário pelo nome de usuário.
 
 ## Configuração
 
